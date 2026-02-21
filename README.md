@@ -45,3 +45,9 @@ f(x) = a₀xⁿ + a₁xⁿ⁻¹ + ... + constant
 ---
 
 ## 📂 Project Structure
+PolynomialProject/
+│
+├── Main.java
+├── PolynomialSolver.java
+├── input.json
+└── README.md
